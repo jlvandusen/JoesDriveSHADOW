@@ -1,23 +1,12 @@
 Joe's Drive, MK3Remote:SHADOW :  Small Handheld Arduino Droid Operating Wand for BB8
 
-//                          Last Revised Date: 03/21/2019
-//                             Written By: Joe Latiola
-//                             Adapted to Shadow by: James VanDusen
-//                             Inspired by KnightShade for R2 Astromech development
-//     learn more at http://jimmyzsbb8.blogspot.com or http://jimmyzsr2.blogspot.com
-
-
-//         This program is free software: you can redistribute it and/or modify it .
-//         This program is distributed in the hope that it will be useful,
-//         but WITHOUT ANY WARRANTY; without even the implied warranty of
-//         MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-//
-//         This entire project was masterminded by an average Joe, your mileage may vary. 
-// =======================================================================================
-//   Note: You will need a Adafruit Feather to run this sketch,
-//
-//   This is written to be a UNIVERSAL Sketch - supporting multiple controller options
-//   for the Joe Latiola BB8 build version MK3...
+Last Revised Date: 03/21/2019
+Written By: Joe Latiola
+Adapted to Shadow by: James VanDusen
+Inspired by KnightShade for R2 Astromech development
+learn more at http://jimmyzsbb8.blogspot.com or http://jimmyzsr2.blogspot.com
+This is written to be a UNIVERSAL Sketch - supporting multiple controller options
+for the Joe Latiola BB8 build version MK3...
 //   see: www.facebook.com/joesdrive
 //   learn more at http://jimmyzsbb8.blogspot.com or http://jimmyzsr2.blogspot.com
 //
@@ -26,8 +15,11 @@ Joe's Drive, MK3Remote:SHADOW :  Small Handheld Arduino Droid Operating Wand for
 //   Working on
 //      - QWiiC integration between Drive, MPU and SHADOW controller cards
 //
-// =======================================================================================
-//
+
+
+
+
+
 //  You will need libraries: 
 // i2cdevlib: https://github.com/jrowberg/i2cdevlib
 // SSD1306Ascii Text Only: https://github.com/greiman/SSD1306Ascii
