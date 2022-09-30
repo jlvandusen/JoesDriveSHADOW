@@ -41,6 +41,9 @@
 // SHADOW Reference information: https://github.com/ti9327/SHADOW
 // Modified Low PowerLab: https://travis-ci.org/LowPowerLab/RFM69  
 // EasyTransfer: https://github.com/madsci1016/Arduino-EasyTransfer
+// Adafruit Soundboard: https://github.com/adafruit/Adafruit_Soundboard_library
+// RFM69: https://github.com/LowPowerLab/RFM69
+// SPIFLASH: https://github.com/LowPowerLab/SPIFlash
 
 // Serial0 = Debug
 // Serial1 = Main board over 115200
@@ -171,6 +174,7 @@ uint32_t lastMsgNav2Time = 0;
 uint32_t currentNav2Time = 0;
 uint32_t lastLoopTime = 0;
 int badPS3Data = 0;
+int remoteBatt = 0;
 bool firstMessage = true;
 unsigned long currentMillis;
 unsigned long bodyCalibrationMillis;
