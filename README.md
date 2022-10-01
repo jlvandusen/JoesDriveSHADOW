@@ -1,6 +1,7 @@
 # Joe's Drive, MK3Remote:SHADOW :  Small Handheld Arduino Droid Operating Wand for BB8
 * Shared Code Base for Joe's Drive MK1-MK3 
-* Last Revised Date: 03/21/2019
+* Initial creation: 3/21/2019
+* Last Revised Date: 10/01/2022
 * Written By: Joe Latiola
 * Adapted to Shadow by: James VanDusen
 * Inspired by KnightShade for R2 Astromech development
