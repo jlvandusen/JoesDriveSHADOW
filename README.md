@@ -1,5 +1,5 @@
 # Joe's Drive
-# MK3Remote:SHADOW :  Small Handheld Arduino Droid Operating Wand for BB8
+# SHADOW :  Small Handheld Arduino Droid Operating Wand for BB8
 * Shared Code Base for Joe's Drive MK1-MK3 
 * Initial creation: 3/21/2019
 * Last Revised Date: 10/01/2022
